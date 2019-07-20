@@ -3,6 +3,10 @@ import React, { Component } from 'react';
 class Testimonials extends Component {
   render() {
 
+   if (!this.props.data || !this.props.data.testimonials) {
+      return <div></div>
+   }
+
     if(this.props.data){
       var testimonials = this.props.data.testimonials.map(function(testimonials){
         return  <li key={testimonials.user}>

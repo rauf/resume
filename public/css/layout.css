@@ -272,6 +272,19 @@ ul#nav li.current a { color: #F06000; }
    margin-bottom: 18px;
    margin-top: 9px;
 }
+.info-work-div {
+   margin-bottom: 40px;
+}
+.info-work-div > a:hover {
+   text-decoration: underline
+}
+.info-work {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 10px;
+}
+
 #resume .info span {
    margin-right: 5px;
    margin-left: 5px;
@@ -295,13 +308,15 @@ ul#nav li.current a { color: #F06000; }
   	margin-top: 36px;
    list-style: none;
 }
-.bars li {
+
+/* .bars li {
    position: relative;
   	margin-bottom: 60px;
   	background: #ccc;
   	height: 42px;
   	border-radius: 3px;
-}
+} */
+
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
    color: #313131;
@@ -310,7 +325,8 @@ ul#nav li.current a { color: #F06000; }
 	font-weight: normal;
    position: relative;
 	top: -36px;
-}
+} */
+
 .bar-expand {
    position: absolute;
    left: 0;

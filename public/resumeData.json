@@ -2,163 +2,120 @@
   "main": {
     "name":"Abdul Rauf",
     "occupation":"Software Engineer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "I have serious passion for technology and software engineering and creating simple ane robust solutions.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Experienced Software Engineer with a demonstrated history of working in the Computer Software industry. Skilled in Java, Spring, Kubernetes and related stack. Strong engineering professional with a Bachelor’s Degree focused in Computer Engineering from Jamia Millia Islamia.",
+    "contactmessage":"If you have any questions or just want to say hello, feel free to contact me.",
     "email": "abdul3rauf@gmail.com",
-    "phone": "555-555-5555",
+    "phone": "",
     "address":{
       "street":"",
       "city":"New Delhi",
       "state": "",
-      "zip": "110025"
+      "zip": ""
     },
     "website": "https://rauf.in",
-    "resumedownload":"",
+    "resumedownload":"https://docs.google.com/document/d/10-6Mui8fRa2AK2P6w4J3xkxiNesfXAeGaRA-jFTvwas/edit?usp=sharing",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/abdul3rauf",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/abdul3rauf/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/abdul3rauf",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/rauf",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"My skills revolve around both in Dev. and DevOps role. Some of my top skills are as follows:",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Jamia Millia Islamia",
+        "degree":"Bachelor of Technology (Computer Engineering)",
+        "graduated":"June 2017",
+        "description" : "CPI: 8.54 / 10"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Paytm Payments Bank",
+        "link": "https://www.paytmbank.com",
+        "title":"Software Engineer",
+        "years":"July 2018 - Present",
+        "description":"1. Working on several REST microservices. \n2. Working on Java, Spring Boot, MySQL, Hibernate, Kafka, etc"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Paytm Payments Bank",
+        "link": "https://www.paytmbank.com",
+        "title":"DevOps Engineer",
+        "years":"September 2017 - July 2018",
+        "description":"1. Main contributor in Iris Kubernetes cluster management dashboard developed with React.js, Redux and Express.js. Iris is a tool developed in house to monitor and manage containerized Kubernetes applications.\n2. Worked on Kubernetes, Docker, Terraform, SaltStack, AWS and other automation jobs."
+      },
+      {
+        "company":"Info Edge India Ltd",
+        "link": "http://www.infoedge.in/",
+        "title":"Software Engineer",
+        "years":"June 2017 - September 2017",
+        "description":"1. Worked on shiksha.com mobile site and application backend division. \n2. Worked with CodeIgniter Framework (PHP), Solr, Javascript, jQuery, Spring Boot and Hibernate."
+      },
+      {
+        "company":"Google Summer of Code Developer under GPAC org",
+        "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4917249001390080/",
+        "title":"Software Engineer",
+        "years":"April 2016 - August 2016 (during College)",
+        "description":"1. Created a module to take advantage of hardware-accelerated media decoding using MediaCodec C++ API on Android. \n2. Redesigned UI of the “osmo4” media player app.\n3. Implemented configuration file editor by parsing a XML options file and using them to edit the configuration file."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"Java",
+        "level":""
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Srping",
+        "level":""
       },
       {
-        "name":"ReactJs",
+        "name":"Spring Boot",
         "level":"50%"
       },
       {
-        "name":"CSS",
+        "name":"Kubernetes",
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"DevOps",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"React JS",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
+        "name":"Amazon Web Services (AWS)",
         "level":"80%"
       }
     ]
   },
   "portfolio":{
     "projects": [
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
+      
     ]
   },
   "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
-      }
-    ]
+    
   }
 }
