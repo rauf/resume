@@ -2,7 +2,7 @@
   "main": {
     "name":"Abdul Rauf",
     "occupation":"Software Engineer",
-    "description": "I have serious passion for technology and software engineering and creating simple ane robust solutions.",
+    "description": "And I have serious passion for technology, software engineering, creating simple and robust solutions",
     "image":"profilepic.jpg",
     "bio":"Experienced Software Engineer with a demonstrated history of working in the Computer Software industry. Skilled in Java, Spring, Kubernetes and related stack. Strong engineering professional with a Bachelor’s Degree focused in Computer Engineering from Jamia Millia Islamia.",
     "contactmessage":"If you have any questions or just want to say hello, feel free to contact me.",
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "https://rauf.in",
-    "resumedownload":"https://docs.google.com/document/d/10-6Mui8fRa2AK2P6w4J3xkxiNesfXAeGaRA-jFTvwas/edit?usp=sharing",
+    "resumedownload":"./Resume-AbdulRauf.pdf",
     "social":[
       {
         "name":"email",
