@@ -18,6 +18,11 @@
     "resumedownload":"https://docs.google.com/document/d/10-6Mui8fRa2AK2P6w4J3xkxiNesfXAeGaRA-jFTvwas/edit?usp=sharing",
     "social":[
       {
+        "name":"email",
+        "url":"mailto:abdul3rauf@gmail.com",
+        "className":"fa fa-envelope-o"
+      },
+      {
         "name":"facebook",
         "url":"https://www.facebook.com/abdul3rauf",
         "className":"fa fa-facebook"
