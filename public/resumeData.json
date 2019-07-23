@@ -78,7 +78,7 @@
       },
       {
         "company":"Google Summer of Code Developer under GPAC org",
-        "link": "https://summerofcode.withgoogle.com/archive/2016/organizations/4917249001390080/",
+        "link": "https://summerofcode.withgoogle.com/archive/2016/projects/4785383036420096",
         "title":"Software Engineer",
         "years":"April 2016 - August 2016 (during College)",
         "description":"1. Created a module to take advantage of hardware-accelerated media decoding using MediaCodec C++ API on Android. \n2. Redesigned UI of the “osmo4” media player app.\n3. Implemented configuration file editor by parsing a XML options file and using them to edit the configuration file."
