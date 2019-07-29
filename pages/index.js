@@ -33,14 +33,14 @@ const HomePage = () => {
         {/* <Contact data={resumeData.main}/> */}
         <Footer data={resumeData.main}/>
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="/static/js/jquery-1.10.2.min.js"></script>')</script>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script type="text/javascript" src="/static/js/jquery-1.10.2.min.js"></script>')</script>
         <script type="text/javascript" src="/static/js/jquery-migrate-1.2.1.min.js"></script>
-        <script src="/static/js/jquery.flexslider.js"></script>
-        <script src="/static/js/waypoints.js"></script>
-        <script src="/static/js/jquery.fittext.js"></script>
-        <script src="/static/js/magnific-popup.js"></script>
-        <script src="/static/js/init.js"></script>
+        <script type="text/javascript" src="/static/js/jquery.flexslider.js"></script>
+        <script type="text/javascript" src="/static/js/jquery.fittext.js"></script>
+        <script type="text/javascript" src="/static/js/waypoints.js"></script>
+        <script type="text/javascript" src="/static/js/magnific-popup.js"></script>
+        <script type="text/javascript" src="/static/js/init.js"></script>
     </div>
   );
 };
