@@ -1,4 +1,4 @@
-{
+export default {
   "main": {
     "name":"Abdul Rauf",
     "occupation":"Software Engineer",
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "https://rauf.in",
-    "resumedownload":"./Resume-AbdulRauf.pdf",
+    "resumedownload": "/static/Resume-AbdulRauf.pdf",
     "social":[
       {
         "name":"email",
