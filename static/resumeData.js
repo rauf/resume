@@ -28,14 +28,19 @@ export default {
         "className":"fa fa-facebook"
       },
       {
+        "name":"instagram",
+        "url":"http://instagram.com/abdul3rauf",
+        "className":"fa fa-instagram"
+      },
+      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/abdul3rauf/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/abdul3rauf",
-        "className":"fa fa-instagram"
+        "name":"StackOverflow",
+        "url":"https://stackoverflow.com/users/5132060/abdul-rauf",
+        "className":"fa fa-stack-overflow"
       },
       {
         "name":"github",
