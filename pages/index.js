@@ -26,12 +26,12 @@ const HomePage = () => {
         </Head>
         
         <Header data={resumeData.main}/>
-        <About data={resumeData.main}/>
-        <Resume data={resumeData.resume}/>
-        <Portfolio data={resumeData.portfolio}/>
-        <Testimonials data={resumeData.testimonials}/>
+        {/* <About data={resumeData.main}/> */}
+        {/* <Resume data={resumeData.resume}/> */}
+        {/* <Portfolio data={resumeData.portfolio}/> */}
+        {/* <Testimonials data={resumeData.testimonials}/> */}
         {/* <Contact data={resumeData.main}/> */}
-        <Footer data={resumeData.main}/>
+        {/* <Footer data={resumeData.main}/> */}
 
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script type="text/javascript" src="/static/js/jquery-1.10.2.min.js"></script>')</script>

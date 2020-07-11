@@ -2,7 +2,7 @@ export default {
   "main": {
     "name":"Abdul Rauf",
     "occupation":"Software Engineer",
-    "description": "And I have serious passion for technology, software engineering, creating simple and robust solutions",
+    "description": "And I have a serious passion for technology, software engineering, and creating simple and robust solutions.",
     "image":"profilepic.jpg",
     "bio":"Experienced Software Engineer with a demonstrated history of working in the Computer Software industry. Skilled in Java, Spring, Kubernetes and related stack. Strong engineering professional with a Bachelor’s Degree focused in Computer Engineering from Jamia Millia Islamia.",
     "contactmessage":"If you have any questions or just want to say hello, feel free to contact me.",
